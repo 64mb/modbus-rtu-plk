@@ -1,0 +1,22 @@
+{
+  "name": "modbus_rtu_plk",
+  "description": "Modbus RTU PLK package handler",
+  "author": "64MB",
+  "private": true,
+  "main": "index.js",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "nodemon": "^2.0.13",
+    "tap": "^15.0.9"
+  }
+}
